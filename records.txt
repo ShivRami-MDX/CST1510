@@ -1,0 +1,5 @@
+survey_2026,1187,1200
+customers,5000,4800
+sales_q3,950,1000
+reviews,2210,2000
+sensors,780,780
