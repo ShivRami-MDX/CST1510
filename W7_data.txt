@@ -1,0 +1,7 @@
+  SURVEY_2026 , RATING=4 , AGE=23  
+survey_2026,rating=2,age=19
+   Survey_A , rating = 5 , AGE = 34
+SuRvEy_B,RaTiNg= 3 , aGe= 21
+  survey_c , RATING=1, age = 17
+SURVEY_D , rating= 4.5 , age= 28
+survey_bad, rating=excellent, age=20
