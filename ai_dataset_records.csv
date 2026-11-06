@@ -1,0 +1,7 @@
+dataset,rows_loaded,rows_expected
+survey_2026_q1,1187,1200
+image_labels_v2,845,800
+climate_observations,640,700
+sentiment_batch_a,950,1000
+speech_transcripts,1250,1200
+recommendation_events,720,900

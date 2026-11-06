@@ -1,0 +1,7 @@
+dataset,rows_loaded,rows_expected,percent,status
+survey_2026_q1,1187,1200,98.91666666666666,WARNING
+image_labels_v2,845,800,105.62499999999999,OVER LIMIT
+climate_observations,640,700,91.42857142857143,WARNING
+sentiment_batch_a,950,1000,95.0,WARNING
+speech_transcripts,1250,1200,104.16666666666667,OVER LIMIT
+recommendation_events,720,900,80.0,OK
